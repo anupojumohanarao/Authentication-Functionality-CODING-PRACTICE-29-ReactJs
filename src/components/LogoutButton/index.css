@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.main-logout-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logout {
+  font-family: 'Robot';
+  border-radius: 4px;
+}
